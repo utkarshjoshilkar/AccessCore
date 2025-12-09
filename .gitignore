@@ -33,3 +33,7 @@ node_modules/
 dist/
 build/
 local-data/
+
+### Secrets ###
+application.properties
+**/application.properties
